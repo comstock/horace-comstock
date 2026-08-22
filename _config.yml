@@ -39,8 +39,8 @@ author: CollectionBuilder
 # e.g. relative path "/assets/demo-metadata.csv"
 # e.g. published google sheet "https://docs.google.com/spreadsheets/d/e/2PACX-1vTazcsYnHCit0ojwpWFUmLGBP3vyuGIZkePHaWJE9w41VwArs97b03u7H8rWX1A4VQ82OYFK6QoAruv/pub?gid=835025159&single=true&output=csv"
 # e.g. on GitHub use the raw link "https://raw.githubusercontent.com/CollectionBuilder/collectionbuilder-sample-data/main/psychiana_cbdemo_gh.csv"
-# metadata-csv: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTazcsYnHCit0ojwpWFUmLGBP3vyuGIZkePHaWJE9w41VwArs97b03u7H8rWX1A4VQ82OYFK6QoAruv/pub?gid=835025159&single=true&output=csv"
-metadata-csv: "/assets/horace_comstock_metadata.csv"
+metadata-csv: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTazcsYnHCit0ojwpWFUmLGBP3vyuGIZkePHaWJE9w41VwArs97b03u7H8rWX1A4VQ82OYFK6QoAruv/pub?gid=835025159&single=true&output=csv"
+# metadata-csv: "/assets/horace_comstock_metadata.csv"
 
 ##########
 # Site/Organization Branding 
