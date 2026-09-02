@@ -17,7 +17,8 @@ url: https://comstock.github.io
 baseurl: /horace-comstock
 # location of code, the full url to your github repository
 # source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
-source-code: https://github.com/comstock/horace-comstock
+# source-code: https://github.com/comstock/horace-comstock
+
 ##########
 # SITE SETTINGS
 #
@@ -41,6 +42,7 @@ author: CollectionBuilder
 # e.g. on GitHub use the raw link "https://raw.githubusercontent.com/CollectionBuilder/collectionbuilder-sample-data/main/psychiana_cbdemo_gh.csv"
 # metadata-csv: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTazcsYnHCit0ojwpWFUmLGBP3vyuGIZkePHaWJE9w41VwArs97b03u7H8rWX1A4VQ82OYFK6QoAruv/pub?gid=835025159&single=true&output=csv"
 metadata-csv: "/assets/horace_comstock_metadata.csv"
+# metadata-csv: "./assets/compound.csv"
 
 ##########
 # Site/Organization Branding 
