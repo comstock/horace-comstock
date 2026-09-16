@@ -17,7 +17,7 @@ url: https://comstock.github.io
 baseurl: /horace-comstock
 # location of code, the full url to your github repository
 # source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
-# source-code: https://github.com/comstock/horace-comstock
+source-code: https://github.com/comstock/horace-comstock
 
 ##########
 # SITE SETTINGS
