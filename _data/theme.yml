@@ -50,6 +50,8 @@ map-search-fuzziness: 0.35 # fuzzy search range from 1 = anything to 0 = exact m
 map-cluster: true # true/false, suggested for large collection or with many items in same location
 map-cluster-radius: 25 # size of clusters, from ~ 10 to 80
 
+# Pine Bluff, Arkansas: 34.20037139454821, -92.01031825340597
+
 ##########
 # TIMELINE PAGE
 #
