@@ -28,7 +28,12 @@ title: Horace Comstock
 tagline: Letters home from a WWII "Air Cadet"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "XX CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills."
+description: "When the United States entered World War II, Horace Nathan Comstock was 20 years old. Having recently graduated high-school, he deferred his college plans to enlist in the military.
+
+20-year-old Horace Comstock entered U.S. military service on May 18, 1942. One year, 9 months, and 6 days later, he was killed in action during the [Battle of Anzio](https://en.wikipedia.org/wiki/Battle_of_Anzio).
+
+These letters from Horace to his family in Maine cover his training deployments and his too brief service in Africa and Italy."
+# description: "XX CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
