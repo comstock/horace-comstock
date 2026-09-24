@@ -44,7 +44,8 @@ auto-center-map: true # have the map auto fit all features into its view
 latitude: 46.727485 # to manually center map if not using auto-center-map option
 longitude: -117.014185 # to manually center map if not using auto-center-map option
 zoom-level: 5 # zoom level for map if not using auto-center-map option
-map-base: Esri_WorldStreetMap # set default base map, choose from: Esri_WorldStreetMap, Esri_NatGeoWorldMap, Esri_WorldImagery
+# map-base: Esri_WorldStreetMap # set default base map, choose from: Esri_WorldStreetMap, Esri_NatGeoWorldMap, Esri_WorldImagery
+map-base: Esri_NatGeoWorldMap # set default base map, choose from: Esri_WorldStreetMap, Esri_NatGeoWorldMap, Esri_WorldImagery
 map-search: true # true/false, not suggested with large collections
 map-search-fuzziness: 0.35 # fuzzy search range from 1 = anything to 0 = exact match only
 map-cluster: true # true/false, suggested for large collection or with many items in same location
@@ -55,7 +56,7 @@ map-cluster-radius: 25 # size of clusters, from ~ 10 to 80
 ##########
 # TIMELINE PAGE
 #
-year-navigation: "1943;1944" #"1900;1905;1910;1915;1920" # set years to appear in dropdown nav, leave blank to auto gen
+year-navigation: "1942;1943;1944" #"1900;1905;1910;1915;1920" # set years to appear in dropdown nav, leave blank to auto gen
 year-nav-increment: 1 # set increments when auto gen nav years
 
 ##########
@@ -63,7 +64,7 @@ year-nav-increment: 1 # set increments when auto gen nav years
 #
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: "title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement"
+metadata-export-fields: "title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,object_transcript"
 # generate a facets list for given fields, comma delimited
 metadata-facets-fields: "subject,creator,format"
 
@@ -74,11 +75,11 @@ metadata-facets-fields: "subject,creator,format"
 # Note, like other items, child objects will only appear in visualizations if they have the correct metadata (lat long for map; date for timeline)
 # select true below if you'd like your compound object's child objects to appear in any of the pages or features listed
 map-child-objects: false # true / false - if true, and if child item has latitude and longitude, child objects will be displayed on map
-timeline-child-objects: false # true / false - if true, and if child object has date, child objects will appear as thumbnails on timeline page
-data-child-objects: true # true / false - if true, child objects will appear linked in table on data page
-carousel-child-objects: true # true / false - if true, child objects will appear on homepage carousel
+timeline-child-objects: true # true / false - if true, and if child object has date, child objects will appear as thumbnails on timeline page
+data-child-objects: false # true / false - if true, child objects will appear linked in table on data page
+carousel-child-objects: false # true / false - if true, child objects will appear on homepage carousel
 browse-child-objects: false # true / false - if true, child objects will appear on browse page and child objects' metadata will populate cloud pages like Subjects page and Locations page, as well as featured terms boxes on the home page
-search-child-objects: true # true / false - if true, child objects will appear on on search page along with parent objects
+search-child-objects: false # true / false - if true, child objects will appear on on search page along with parent objects
 
 ##########
 # ADVANCED OPTIONS
