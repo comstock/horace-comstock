@@ -5,6 +5,8 @@ permalink: /about.html
 credits: true
 ---
 
+# About Horace Comstock
+
 
 ![](https://storage.googleapis.com/horace-comstock/images/misc/HoraceComstock_military-ID-card.jpg)
 
