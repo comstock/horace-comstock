@@ -5,17 +5,17 @@ permalink: /about.html
 credits: true
 ---
 
-# About Horace Comstock
+## About Horace Comstock
 
 
 ![](https://storage.googleapis.com/horace-comstock/images/misc/HoraceComstock_military-ID-card.jpg)
 
-##### Horace Nathan Comstock
+#### Horace Nathan Comstock
 
 - **Born**: August 23, 1921, New Hampshire, USA
 - **Residence**: Bangor, Maine
 
-###### Army service
+##### Army service
 
 - **Enlistment**: May 18, 1942, Bangor, Maine
 - **Rank:** Second Lieutenant
@@ -26,9 +26,9 @@ credits: true
 
 ---
 
-### Further reading
+#### Further reading
 
-``` [BibTex]
+``` BibTex
 
 
 @book{kucera_now_1997,
