@@ -2,9 +2,7 @@
 title: About Horace Comstock
 layout: about
 permalink: /about.html
-# include CollectionBuilder info at bottom
-# {% include feature/jumbotron.html objectid="/assets/img/0074.jpg" %}
-
+credits: true
 ---
 
 
