@@ -1,3 +1,15 @@
+---
+title: About Horace Comstock
+layout: about
+permalink: /about.html
+# include CollectionBuilder info at bottom
+credits: true
+---
+
+%%
+%% {% include feature/jumbotron.html objectid="/assets/img/0074.jpg" %}
+%%
+
 ![](https://storage.googleapis.com/horace-comstock/images/misc/HoraceComstock_military-ID-card.jpg)
 
 ##### Horace Nathan Comstock
