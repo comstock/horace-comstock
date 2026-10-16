@@ -23,7 +23,7 @@ credits: true
 - **Unit:** 307th Fighter Squadron, 31st Fighter Group
 - **Killed in Action:** February 24, 1944 or March 24, 1944
 
-> The date of Comstock's death is uncertain. While most frequently reported as February 24, 1944, an [October 4, 1945 notice](https://comstock.github.io/horace-comstock/item.html?id=hc_0410) from the War Department states: *A corrected official message has been received from the theater of operations that your son was **killed in action on 24 March 1944** and not 24 February 1944 as previously reported.* While this would seem definitive, no letters dated after February 24th from Comstock have surfaced.
+> The date of Comstock's death is uncertain. While most frequently reported as February 24, 1944, an [October 4, 1945 notice](https://comstock.github.io/horace-comstock/item.html?id=hc_0410) from the War Department states: *"A corrected official message has been received from the theater of operations that your son was **killed in action on 24 March 1944** and not 24 February 1944 as previously reported."* While this would seem definitive, no letters dated after February 24th from Comstock have surfaced.
   
 - **Posthumous awards**: Purple Heart, [Air Medal](https://en.wikipedia.org/wiki/Air_Medal)
 
